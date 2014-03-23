@@ -1,7 +1,11 @@
-# Shrek 2048
+# Ikeda 2048
+A clone of 2048 with added Ikeda.
 
-A clone of 2048 with added Shrek.
+#Original
+[2048](https://github.com/gabrielecirulli/2048)
+
+[Shrek 2048](https://github.com/Omegablaster/Shrek-2048)
 
 ## License
-Shrek 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+Ikeda 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
